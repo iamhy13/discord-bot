@@ -1,0 +1,568 @@
+2025-05-30 16:48:03,341 - __main__ - ERROR - DISCORD_TOKEN environment variable not found!
+2025-05-30 16:48:03,341 - __main__ - ERROR - Please set your Discord bot token in the environment variables.
+2025-05-30 16:48:03,508 - __main__ - ERROR - DISCORD_TOKEN environment variable not found!
+2025-05-30 16:48:03,508 - __main__ - ERROR - Please set your Discord bot token in the environment variables.
+2025-05-30 16:48:04,907 - __main__ - ERROR - DISCORD_TOKEN environment variable not found!
+2025-05-30 16:48:04,907 - __main__ - ERROR - Please set your Discord bot token in the environment variables.
+2025-05-30 16:51:44,066 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 16:51:44,068 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 16:51:44,068 - discord.client - INFO - logging in using static token
+2025-05-30 16:51:44,490 - bot - INFO - Setting up bot...
+2025-05-30 16:51:44,491 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 16:51:44,491 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:44,491 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:51:44,492 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:44,492 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 16:51:44,492 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:44,493 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:51:44,493 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 16:51:44,495 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 16:51:44,496 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 16:51:44,496 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 16:51:44,496 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 16:51:44,496 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 16:51:44,496 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 16:51:44,496 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:51:44,496 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:51:44,497 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 16:51:44,497 - bot - INFO - Bot setup completed
+2025-05-30 16:51:44,644 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 16:51:44,644 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 16:51:44,645 - discord.client - INFO - logging in using static token
+2025-05-30 16:51:44,760 - __main__ - ERROR - Fatal error occurred: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 16:51:44,784 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f2a0a4263c0>, 5040.860133439)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f2a0b55f610>
+2025-05-30 16:51:45,104 - bot - INFO - Setting up bot...
+2025-05-30 16:51:45,107 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 16:51:45,107 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:45,107 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:51:45,108 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:45,108 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 16:51:45,108 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:45,108 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:51:45,108 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 16:51:45,109 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 16:51:45,109 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 16:51:45,109 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 16:51:45,109 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 16:51:45,109 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 16:51:45,110 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 16:51:45,110 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:51:45,110 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:51:45,110 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 16:51:45,110 - bot - INFO - Bot setup completed
+2025-05-30 16:51:45,387 - __main__ - ERROR - Fatal error occurred: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 16:51:45,406 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7efe045fe3c0>, 5041.474706986)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7efe046df510>
+2025-05-30 16:51:52,873 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 16:51:52,874 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 16:51:52,874 - discord.client - INFO - logging in using static token
+2025-05-30 16:51:53,341 - bot - INFO - Setting up bot...
+2025-05-30 16:51:53,342 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 16:51:53,343 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:53,343 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:51:53,344 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:53,344 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 16:51:53,344 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:51:53,344 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:51:53,344 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 16:51:53,345 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 16:51:53,345 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 16:51:53,345 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 16:51:53,345 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 16:51:53,345 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 16:51:53,345 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 16:51:53,345 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:51:53,346 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:51:53,346 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 16:51:53,346 - bot - INFO - Bot setup completed
+2025-05-30 16:51:53,601 - __main__ - ERROR - Fatal error occurred: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-30 16:51:53,621 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7fa73d12a3c0>, 5049.71122534)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7fa73ef1b450>
+2025-05-30 16:52:09,597 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 16:52:09,598 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 16:52:09,598 - discord.client - INFO - logging in using static token
+2025-05-30 16:52:09,598 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 16:52:10,080 - bot - INFO - Setting up bot...
+2025-05-30 16:52:10,081 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 16:52:10,081 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:52:10,081 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:52:10,082 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:52:10,082 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 16:52:10,082 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:52:10,082 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:52:10,082 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 16:52:10,083 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 16:52:10,083 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 16:52:10,083 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 16:52:10,083 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 16:52:10,083 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 16:52:10,083 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 16:52:10,084 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:52:10,084 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:52:10,084 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 16:52:10,084 - bot - INFO - Bot setup completed
+2025-05-30 16:52:10,385 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98b8b690cb54a0ab6bca9858352f95f3).
+2025-05-30 16:52:12,388 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 16:52:12,388 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 16:52:12,577 - bot - INFO - Startup message sent successfully
+2025-05-30 16:52:17,278 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 16:52:17,279 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 16:52:17,279 - discord.client - INFO - logging in using static token
+2025-05-30 16:52:17,279 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 16:52:17,845 - bot - INFO - Setting up bot...
+2025-05-30 16:52:17,846 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 16:52:17,846 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:52:17,846 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:52:17,847 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:52:17,847 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 16:52:17,847 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 16:52:17,847 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-30 20:10:00+03:00
+2025-05-30 16:52:17,847 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 16:52:17,848 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 16:52:17,848 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 16:52:17,848 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 16:52:17,848 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 16:52:17,848 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 16:52:17,848 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 16:52:17,848 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:52:17,849 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 20:10:00 EEST
+2025-05-30 16:52:17,849 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 16:52:17,849 - bot - INFO - Bot setup completed
+2025-05-30 16:52:18,196 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2fa20acb9e218ed2554d89ebbcdd3170).
+2025-05-30 16:52:20,201 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 16:52:20,201 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 16:52:20,496 - bot - INFO - Startup message sent successfully
+2025-05-30 17:10:00,031 - apscheduler.executors.default - INFO - Running job "Canionul Nordic Spawn Notification (trigger: interval[4:00:00], next run at: 2025-05-31 00:10:00 EEST)" (scheduled at 2025-05-30 20:10:00+03:00)
+2025-05-30 17:10:00,032 - scheduler_manager - INFO - Sending Canionul Nordic spawn notification
+2025-05-30 17:10:00,032 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-30 22:10:00 EEST)" (scheduled at 2025-05-30 20:10:00+03:00)
+2025-05-30 17:10:00,032 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-30 17:10:00,261 - bot - INFO - Spawn message sent: Sefii din Canionul Nordic isi fac aparitia in 5 min !!!
+2025-05-30 17:10:00,262 - scheduler_manager - INFO - Successfully sent Canionul Nordic notification
+2025-05-30 17:10:00,262 - apscheduler.executors.default - INFO - Job "Canionul Nordic Spawn Notification (trigger: interval[4:00:00], next run at: 2025-05-31 00:10:00 EEST)" executed successfully
+2025-05-30 17:10:00,453 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-30 17:10:00,453 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-30 17:10:00,453 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-30 22:10:00 EEST)" executed successfully
+2025-05-30 17:17:31,915 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 17:17:31,916 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 17:17:31,916 - discord.client - INFO - logging in using static token
+2025-05-30 17:17:31,917 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 17:17:32,569 - bot - INFO - Setting up bot...
+2025-05-30 17:17:32,570 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 17:17:32,570 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:32,571 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:32,571 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 22:10:00+03:00
+2025-05-30 17:17:32,571 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-30 22:15:00+03:00
+2025-05-30 17:17:32,571 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:32,572 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:32,572 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 17:17:32,572 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-30 21:15:00+03:00
+2025-05-30 17:17:32,572 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:32,572 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:32,572 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 17:17:32,573 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 17:17:32,573 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 17:17:32,576 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 17:17:32,576 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-30 17:17:32,576 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 17:17:32,576 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-30 17:17:32,576 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 17:17:32,577 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-30 17:17:32,577 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 17:17:32,577 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 17:17:32,577 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 17:17:32,577 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 17:17:32,577 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-30 21:15:00 EEST
+2025-05-30 17:17:32,577 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 22:10:00 EEST
+2025-05-30 17:17:32,577 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-30 22:15:00 EEST
+2025-05-30 17:17:32,577 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 17:17:32,577 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 17:17:32,578 - bot - INFO - Bot setup completed
+2025-05-30 17:17:32,971 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f83105cabf0dabf0177d0e75d55035c9).
+2025-05-30 17:17:34,976 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 17:17:34,976 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 17:17:36,496 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 17:17:36,497 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 17:17:36,497 - discord.client - INFO - logging in using static token
+2025-05-30 17:17:36,497 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 17:17:36,921 - bot - INFO - Setting up bot...
+2025-05-30 17:17:36,923 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 17:17:36,923 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:36,923 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:36,923 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 22:10:00+03:00
+2025-05-30 17:17:36,924 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-30 22:15:00+03:00
+2025-05-30 17:17:36,924 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:36,924 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:36,924 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 17:17:36,924 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-30 21:15:00+03:00
+2025-05-30 17:17:36,925 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:36,925 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:17:36,925 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 17:17:36,925 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 17:17:36,925 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 17:17:36,926 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 17:17:36,926 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-30 17:17:36,926 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 17:17:36,926 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-30 17:17:36,926 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 17:17:36,926 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-30 17:17:36,927 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 17:17:36,927 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 17:17:36,927 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 17:17:36,927 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 17:17:36,927 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-30 21:15:00 EEST
+2025-05-30 17:17:36,927 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 22:10:00 EEST
+2025-05-30 17:17:36,927 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-30 22:15:00 EEST
+2025-05-30 17:17:36,928 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 17:17:36,928 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 17:17:36,928 - bot - INFO - Bot setup completed
+2025-05-30 17:17:37,210 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ccf82d1438681a9237e420586729a289).
+2025-05-30 17:17:39,214 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 17:17:39,214 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 17:17:39,695 - bot - INFO - Startup message sent successfully
+2025-05-30 17:19:03,000 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 17:19:03,001 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 17:19:03,001 - discord.client - INFO - logging in using static token
+2025-05-30 17:19:03,002 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 17:19:03,426 - bot - INFO - Setting up bot...
+2025-05-30 17:19:03,427 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 17:19:03,427 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:19:03,428 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:19:03,428 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-30 22:10:00+03:00
+2025-05-30 17:19:03,428 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-30 22:15:00+03:00
+2025-05-30 17:19:03,429 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:19:03,429 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:19:03,429 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-30 21:10:00+03:00
+2025-05-30 17:19:03,429 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-30 21:15:00+03:00
+2025-05-30 17:19:03,429 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:19:03,429 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 17:19:03,429 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 17:19:03,430 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 17:19:03,430 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 17:19:03,430 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 17:19:03,430 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-30 17:19:03,431 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 17:19:03,431 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-30 17:19:03,431 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 17:19:03,431 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-30 17:19:03,431 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 17:19:03,431 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 17:19:03,431 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 17:19:03,431 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-30 21:10:00 EEST
+2025-05-30 17:19:03,432 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-30 21:15:00 EEST
+2025-05-30 17:19:03,432 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-30 22:10:00 EEST
+2025-05-30 17:19:03,432 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-30 22:15:00 EEST
+2025-05-30 17:19:03,432 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 17:19:03,432 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 17:19:03,432 - bot - INFO - Bot setup completed
+2025-05-30 17:19:03,754 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 40b55159dc13639c889aee80b0f54276).
+2025-05-30 17:19:05,758 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 17:19:05,759 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 17:19:05,935 - bot - INFO - Startup message sent successfully
+2025-05-30 18:10:00,004 - apscheduler.executors.default - INFO - Running job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 00:10:00 EEST)" (scheduled at 2025-05-30 21:10:00+03:00)
+2025-05-30 18:10:00,004 - scheduler_manager - INFO - Sending Pustietate spawn notification
+2025-05-30 18:10:00,220 - bot - INFO - Spawn message sent: Sefii din Pustietate isi fac aparitia in 5 min !!!
+2025-05-30 18:10:00,220 - scheduler_manager - INFO - Successfully sent Pustietate notification
+2025-05-30 18:10:00,220 - apscheduler.executors.default - INFO - Job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 00:10:00 EEST)" executed successfully
+2025-05-30 18:15:00,015 - apscheduler.executors.default - INFO - Running job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 00:15:00 EEST)" (scheduled at 2025-05-30 21:15:00+03:00)
+2025-05-30 18:15:00,015 - scheduler_manager - INFO - Sending Pustietate Followup spawn notification
+2025-05-30 18:15:00,263 - bot - INFO - Spawn message sent: Sefii din Pustietate au aparut !!!
+2025-05-30 18:15:00,263 - scheduler_manager - INFO - Successfully sent Pustietate Followup notification
+2025-05-30 18:15:00,263 - apscheduler.executors.default - INFO - Job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 00:15:00 EEST)" executed successfully
+2025-05-30 19:10:00,015 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 00:10:00 EEST)" (scheduled at 2025-05-30 22:10:00+03:00)
+2025-05-30 19:10:00,015 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-30 19:10:00,274 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-30 19:10:00,274 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-30 19:10:00,274 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 00:10:00 EEST)" executed successfully
+2025-05-30 19:15:00,027 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 00:15:00 EEST)" (scheduled at 2025-05-30 22:15:00+03:00)
+2025-05-30 19:15:00,027 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-30 19:15:00,265 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-30 19:15:00,265 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-30 19:15:00,265 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 00:15:00 EEST)" executed successfully
+2025-05-30 19:35:32,557 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 19:35:32,557 - __main__ - INFO - Starting Discord notification bot...
+2025-05-30 19:35:32,558 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 19:35:32,558 - discord.client - INFO - logging in using static token
+2025-05-30 19:35:32,558 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 19:35:32,558 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-30 19:35:32,558 - discord.client - INFO - logging in using static token
+2025-05-30 19:35:32,559 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-30 19:35:32,989 - bot - INFO - Setting up bot...
+2025-05-30 19:35:32,997 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 19:35:32,997 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:32,997 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:32,998 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 19:35:32,998 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 19:35:32,998 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:32,999 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:32,999 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 19:35:32,999 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 19:35:32,999 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:32,999 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:32,999 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 19:35:32,999 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 19:35:33,000 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 19:35:33,001 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 19:35:33,001 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-30 19:35:33,001 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 19:35:33,002 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-30 19:35:33,002 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 19:35:33,002 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-30 19:35:33,002 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 19:35:33,002 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 19:35:33,002 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 19:35:33,002 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 19:35:33,002 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 19:35:33,002 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 19:35:33,002 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 19:35:33,003 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 19:35:33,003 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 19:35:33,003 - bot - INFO - Bot setup completed
+2025-05-30 19:35:33,150 - bot - INFO - Setting up bot...
+2025-05-30 19:35:33,151 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-30 19:35:33,152 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:33,152 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:33,152 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 19:35:33,152 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 19:35:33,153 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:33,153 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:33,153 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 19:35:33,153 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 19:35:33,153 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:33,153 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:35:33,154 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 00:10:00+03:00
+2025-05-30 19:35:33,154 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 00:15:00+03:00
+2025-05-30 19:35:33,154 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-30 19:35:33,154 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-30 19:35:33,154 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-30 19:35:33,156 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-30 19:35:33,156 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-30 19:35:33,156 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-30 19:35:33,156 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-30 19:35:33,156 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 19:35:33,156 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-30 19:35:33,157 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-30 19:35:33,157 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 19:35:33,157 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 19:35:33,157 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-31 00:10:00 EEST
+2025-05-30 19:35:33,157 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 19:35:33,157 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 19:35:33,157 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-31 00:15:00 EEST
+2025-05-30 19:35:33,157 - bot - INFO - Bot setup completed
+2025-05-30 19:35:33,388 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 249fcb451c5bdae3d582fdff1176c3c7).
+2025-05-30 19:35:33,421 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6744848f6dc6a47e366d4e5fe00e0126).
+2025-05-30 19:35:35,391 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 19:35:35,392 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 19:35:35,424 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-30 19:35:35,424 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-30 19:35:35,587 - bot - INFO - Startup message sent successfully
+2025-05-30 19:35:35,615 - bot - INFO - Startup message sent successfully
+2025-05-30 20:47:39,701 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 249fcb451c5bdae3d582fdff1176c3c7.
+2025-05-30 20:57:59,225 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6744848f6dc6a47e366d4e5fe00e0126.
+2025-05-30 21:04:08,752 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 249fcb451c5bdae3d582fdff1176c3c7.
+2025-05-30 21:10:00,020 - apscheduler.executors.default - INFO - Running job "Canionul Nordic Spawn Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:10:00 EEST)" (scheduled at 2025-05-31 00:10:00+03:00)
+2025-05-30 21:10:00,021 - scheduler_manager - INFO - Sending Canionul Nordic spawn notification
+2025-05-30 21:10:00,022 - apscheduler.executors.default - INFO - Running job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:10:00 EEST)" (scheduled at 2025-05-31 00:10:00+03:00)
+2025-05-30 21:10:00,022 - scheduler_manager - INFO - Sending Pustietate spawn notification
+2025-05-30 21:10:00,023 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:10:00 EEST)" (scheduled at 2025-05-31 00:10:00+03:00)
+2025-05-30 21:10:00,023 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-30 21:10:00,024 - apscheduler.executors.default - INFO - Running job "Canionul Nordic Spawn Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:10:00 EEST)" (scheduled at 2025-05-31 00:10:00+03:00)
+2025-05-30 21:10:00,024 - scheduler_manager - INFO - Sending Canionul Nordic spawn notification
+2025-05-30 21:10:00,024 - apscheduler.executors.default - INFO - Running job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:10:00 EEST)" (scheduled at 2025-05-31 00:10:00+03:00)
+2025-05-30 21:10:00,025 - scheduler_manager - INFO - Sending Pustietate spawn notification
+2025-05-30 21:10:00,025 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:10:00 EEST)" (scheduled at 2025-05-31 00:10:00+03:00)
+2025-05-30 21:10:00,025 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-30 21:10:00,365 - bot - INFO - Spawn message sent: Sefii din Canionul Nordic isi fac aparitia in 5 min !!!
+2025-05-30 21:10:00,365 - scheduler_manager - INFO - Successfully sent Canionul Nordic notification
+2025-05-30 21:10:00,365 - apscheduler.executors.default - INFO - Job "Canionul Nordic Spawn Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:10:00 EEST)" executed successfully
+2025-05-30 21:10:00,498 - bot - INFO - Spawn message sent: Sefii din Canionul Nordic isi fac aparitia in 5 min !!!
+2025-05-30 21:10:00,498 - scheduler_manager - INFO - Successfully sent Canionul Nordic notification
+2025-05-30 21:10:00,498 - apscheduler.executors.default - INFO - Job "Canionul Nordic Spawn Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:10:00 EEST)" executed successfully
+2025-05-30 21:10:00,591 - bot - INFO - Spawn message sent: Sefii din Pustietate isi fac aparitia in 5 min !!!
+2025-05-30 21:10:00,592 - scheduler_manager - INFO - Successfully sent Pustietate notification
+2025-05-30 21:10:00,592 - apscheduler.executors.default - INFO - Job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:10:00 EEST)" executed successfully
+2025-05-30 21:10:00,694 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1378037686069104682/messages responded with 429. Retrying in 0.48 seconds.
+2025-05-30 21:10:01,368 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-30 21:10:01,369 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-30 21:10:01,369 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:10:00 EEST)" executed successfully
+2025-05-30 21:10:04,257 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-30 21:10:04,257 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-30 21:10:04,257 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:10:00 EEST)" executed successfully
+2025-05-30 21:10:05,239 - bot - INFO - Spawn message sent: Sefii din Pustietate isi fac aparitia in 5 min !!!
+2025-05-30 21:10:05,239 - scheduler_manager - INFO - Successfully sent Pustietate notification
+2025-05-30 21:10:05,239 - apscheduler.executors.default - INFO - Job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:10:00 EEST)" executed successfully
+2025-05-30 21:15:00,030 - apscheduler.executors.default - INFO - Running job "Canionul Nordic Followup Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:15:00 EEST)" (scheduled at 2025-05-31 00:15:00+03:00)
+2025-05-30 21:15:00,031 - scheduler_manager - INFO - Sending Canionul Nordic Followup spawn notification
+2025-05-30 21:15:00,031 - apscheduler.executors.default - INFO - Running job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:15:00 EEST)" (scheduled at 2025-05-31 00:15:00+03:00)
+2025-05-30 21:15:00,031 - scheduler_manager - INFO - Sending Pustietate Followup spawn notification
+2025-05-30 21:15:00,032 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:15:00 EEST)" (scheduled at 2025-05-31 00:15:00+03:00)
+2025-05-30 21:15:00,032 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-30 21:15:00,032 - apscheduler.executors.default - INFO - Running job "Canionul Nordic Followup Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:15:00 EEST)" (scheduled at 2025-05-31 00:15:00+03:00)
+2025-05-30 21:15:00,032 - scheduler_manager - INFO - Sending Canionul Nordic Followup spawn notification
+2025-05-30 21:15:00,033 - apscheduler.executors.default - INFO - Running job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:15:00 EEST)" (scheduled at 2025-05-31 00:15:00+03:00)
+2025-05-30 21:15:00,033 - scheduler_manager - INFO - Sending Pustietate Followup spawn notification
+2025-05-30 21:15:00,033 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:15:00 EEST)" (scheduled at 2025-05-31 00:15:00+03:00)
+2025-05-30 21:15:00,033 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-30 21:15:00,240 - bot - INFO - Spawn message sent: Sefii din Canionul Nordic au aparut !!!
+2025-05-30 21:15:00,240 - scheduler_manager - INFO - Successfully sent Canionul Nordic Followup notification
+2025-05-30 21:15:00,241 - apscheduler.executors.default - INFO - Job "Canionul Nordic Followup Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:15:00 EEST)" executed successfully
+2025-05-30 21:15:00,253 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-30 21:15:00,256 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-30 21:15:00,256 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:15:00 EEST)" executed successfully
+2025-05-30 21:15:00,306 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-30 21:15:00,306 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-30 21:15:00,307 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 02:15:00 EEST)" executed successfully
+2025-05-30 21:15:00,406 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1378037686069104682/messages responded with 429. Retrying in 0.78 seconds.
+2025-05-30 21:15:01,561 - bot - INFO - Spawn message sent: Sefii din Canionul Nordic au aparut !!!
+2025-05-30 21:15:01,561 - scheduler_manager - INFO - Successfully sent Canionul Nordic Followup notification
+2025-05-30 21:15:01,561 - apscheduler.executors.default - INFO - Job "Canionul Nordic Followup Notification (trigger: interval[4:00:00], next run at: 2025-05-31 04:15:00 EEST)" executed successfully
+2025-05-30 21:15:04,252 - bot - INFO - Spawn message sent: Sefii din Pustietate au aparut !!!
+2025-05-30 21:15:04,252 - scheduler_manager - INFO - Successfully sent Pustietate Followup notification
+2025-05-30 21:15:04,252 - apscheduler.executors.default - INFO - Job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:15:00 EEST)" executed successfully
+2025-05-30 21:15:05,317 - bot - INFO - Spawn message sent: Sefii din Pustietate au aparut !!!
+2025-05-30 21:15:05,317 - scheduler_manager - INFO - Successfully sent Pustietate Followup notification
+2025-05-30 21:15:05,317 - apscheduler.executors.default - INFO - Job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 03:15:00 EEST)" executed successfully
+2025-05-30 21:21:07,649 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6744848f6dc6a47e366d4e5fe00e0126.
+2025-05-30 22:24:46,428 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 249fcb451c5bdae3d582fdff1176c3c7.
+2025-05-30 23:09:23,516 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6744848f6dc6a47e366d4e5fe00e0126.
+2025-05-30 23:10:00,033 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:10:00 EEST)" (scheduled at 2025-05-31 02:10:00+03:00)
+2025-05-30 23:10:00,033 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-30 23:10:00,037 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:10:00 EEST)" (scheduled at 2025-05-31 02:10:00+03:00)
+2025-05-30 23:10:00,037 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-30 23:10:00,261 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-30 23:10:00,262 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-30 23:10:00,262 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:10:00 EEST)" executed successfully
+2025-05-30 23:10:00,309 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-30 23:10:00,309 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-30 23:10:00,309 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:10:00 EEST)" executed successfully
+2025-05-30 23:15:00,002 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:15:00 EEST)" (scheduled at 2025-05-31 02:15:00+03:00)
+2025-05-30 23:15:00,002 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-30 23:15:00,006 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:15:00 EEST)" (scheduled at 2025-05-31 02:15:00+03:00)
+2025-05-30 23:15:00,007 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-30 23:15:00,254 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-30 23:15:00,255 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-30 23:15:00,255 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:15:00 EEST)" executed successfully
+2025-05-30 23:15:00,268 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-30 23:15:00,268 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-30 23:15:00,268 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 04:15:00 EEST)" executed successfully
+2025-05-31 00:10:00,002 - apscheduler.executors.default - INFO - Running job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:10:00 EEST)" (scheduled at 2025-05-31 03:10:00+03:00)
+2025-05-31 00:10:00,002 - scheduler_manager - INFO - Sending Pustietate spawn notification
+2025-05-31 00:10:00,007 - apscheduler.executors.default - INFO - Running job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:10:00 EEST)" (scheduled at 2025-05-31 03:10:00+03:00)
+2025-05-31 00:10:00,007 - scheduler_manager - INFO - Sending Pustietate spawn notification
+2025-05-31 00:10:00,248 - bot - INFO - Spawn message sent: Sefii din Pustietate isi fac aparitia in 5 min !!!
+2025-05-31 00:10:00,249 - scheduler_manager - INFO - Successfully sent Pustietate notification
+2025-05-31 00:10:00,249 - apscheduler.executors.default - INFO - Job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:10:00 EEST)" executed successfully
+2025-05-31 00:10:00,284 - bot - INFO - Spawn message sent: Sefii din Pustietate isi fac aparitia in 5 min !!!
+2025-05-31 00:10:00,284 - scheduler_manager - INFO - Successfully sent Pustietate notification
+2025-05-31 00:10:00,284 - apscheduler.executors.default - INFO - Job "Pustietate Spawn Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:10:00 EEST)" executed successfully
+2025-05-31 00:15:00,013 - apscheduler.executors.default - INFO - Running job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:15:00 EEST)" (scheduled at 2025-05-31 03:15:00+03:00)
+2025-05-31 00:15:00,014 - scheduler_manager - INFO - Sending Pustietate Followup spawn notification
+2025-05-31 00:15:00,018 - apscheduler.executors.default - INFO - Running job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:15:00 EEST)" (scheduled at 2025-05-31 03:15:00+03:00)
+2025-05-31 00:15:00,018 - scheduler_manager - INFO - Sending Pustietate Followup spawn notification
+2025-05-31 00:15:00,257 - bot - INFO - Spawn message sent: Sefii din Pustietate au aparut !!!
+2025-05-31 00:15:00,257 - scheduler_manager - INFO - Successfully sent Pustietate Followup notification
+2025-05-31 00:15:00,257 - apscheduler.executors.default - INFO - Job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:15:00 EEST)" executed successfully
+2025-05-31 00:15:00,293 - bot - INFO - Spawn message sent: Sefii din Pustietate au aparut !!!
+2025-05-31 00:15:00,293 - scheduler_manager - INFO - Successfully sent Pustietate Followup notification
+2025-05-31 00:15:00,294 - apscheduler.executors.default - INFO - Job "Pustietate Followup Notification (trigger: interval[3:00:00], next run at: 2025-05-31 06:15:00 EEST)" executed successfully
+2025-05-31 10:53:28,143 - __main__ - INFO - Starting Discord notification bot...
+2025-05-31 10:53:28,144 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-31 10:53:28,144 - discord.client - INFO - logging in using static token
+2025-05-31 10:53:28,144 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-31 10:53:28,146 - __main__ - INFO - Starting Discord notification bot...
+2025-05-31 10:53:28,146 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-31 10:53:28,146 - discord.client - INFO - logging in using static token
+2025-05-31 10:53:28,146 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-05-31 10:53:28,564 - bot - INFO - Setting up bot...
+2025-05-31 10:53:28,566 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-31 10:53:28,566 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,567 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,570 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-31 14:10:00+03:00
+2025-05-31 10:53:28,570 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-31 14:15:00+03:00
+2025-05-31 10:53:28,570 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,570 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,571 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-31 15:10:00+03:00
+2025-05-31 10:53:28,571 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-31 15:15:00+03:00
+2025-05-31 10:53:28,573 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,573 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,573 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 16:10:00+03:00
+2025-05-31 10:53:28,573 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 16:15:00+03:00
+2025-05-31 10:53:28,573 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-31 10:53:28,576 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-31 10:53:28,576 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-31 10:53:28,576 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-31 10:53:28,576 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-31 10:53:28,576 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-31 10:53:28,577 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-31 10:53:28,577 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-31 10:53:28,577 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-31 10:53:28,577 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-31 10:53:28,577 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-31 14:10:00 EEST
+2025-05-31 10:53:28,577 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-31 14:15:00 EEST
+2025-05-31 10:53:28,577 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-31 15:10:00 EEST
+2025-05-31 10:53:28,577 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-31 15:15:00 EEST
+2025-05-31 10:53:28,578 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 16:10:00 EEST
+2025-05-31 10:53:28,578 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 16:15:00 EEST
+2025-05-31 10:53:28,578 - bot - INFO - Bot setup completed
+2025-05-31 10:53:28,596 - bot - INFO - Setting up bot...
+2025-05-31 10:53:28,597 - scheduler_manager - INFO - Setting up spawn notification schedules...
+2025-05-31 10:53:28,598 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,598 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,598 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 notifications every 2h starting at 2025-05-31 14:10:00+03:00
+2025-05-31 10:53:28,598 - scheduler_manager - INFO - Scheduled Temintia Misterioasa V5 followup notifications every 2h starting at 2025-05-31 14:15:00+03:00
+2025-05-31 10:53:28,599 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,599 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,599 - scheduler_manager - INFO - Scheduled Pustietate notifications every 3h starting at 2025-05-31 15:10:00+03:00
+2025-05-31 10:53:28,599 - scheduler_manager - INFO - Scheduled Pustietate followup notifications every 3h starting at 2025-05-31 15:15:00+03:00
+2025-05-31 10:53:28,599 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,600 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-31 10:53:28,600 - scheduler_manager - INFO - Scheduled Canionul Nordic notifications every 4h starting at 2025-05-31 16:10:00+03:00
+2025-05-31 10:53:28,600 - scheduler_manager - INFO - Scheduled Canionul Nordic followup notifications every 4h starting at 2025-05-31 16:15:00+03:00
+2025-05-31 10:53:28,600 - scheduler_manager - INFO - Successfully configured 3 spawn schedules
+2025-05-31 10:53:28,600 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Spawn Notification" to job store "default"
+2025-05-31 10:53:28,601 - apscheduler.scheduler - INFO - Added job "Temintia Misterioasa V5 Followup Notification" to job store "default"
+2025-05-31 10:53:28,601 - apscheduler.scheduler - INFO - Added job "Pustietate Spawn Notification" to job store "default"
+2025-05-31 10:53:28,601 - apscheduler.scheduler - INFO - Added job "Pustietate Followup Notification" to job store "default"
+2025-05-31 10:53:28,601 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Spawn Notification" to job store "default"
+2025-05-31 10:53:28,601 - apscheduler.scheduler - INFO - Added job "Canionul Nordic Followup Notification" to job store "default"
+2025-05-31 10:53:28,601 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-31 10:53:28,601 - scheduler_manager - INFO - Spawn scheduler started successfully
+2025-05-31 10:53:28,601 - scheduler_manager - INFO - Next scheduled spawn notifications:
+2025-05-31 10:53:28,601 - scheduler_manager - INFO -   Temintia Misterioasa V5 Spawn Notification: 2025-05-31 14:10:00 EEST
+2025-05-31 10:53:28,602 - scheduler_manager - INFO -   Temintia Misterioasa V5 Followup Notification: 2025-05-31 14:15:00 EEST
+2025-05-31 10:53:28,602 - scheduler_manager - INFO -   Pustietate Spawn Notification: 2025-05-31 15:10:00 EEST
+2025-05-31 10:53:28,602 - scheduler_manager - INFO -   Pustietate Followup Notification: 2025-05-31 15:15:00 EEST
+2025-05-31 10:53:28,602 - scheduler_manager - INFO -   Canionul Nordic Spawn Notification: 2025-05-31 16:10:00 EEST
+2025-05-31 10:53:28,602 - scheduler_manager - INFO -   Canionul Nordic Followup Notification: 2025-05-31 16:15:00 EEST
+2025-05-31 10:53:28,602 - bot - INFO - Bot setup completed
+2025-05-31 10:53:28,887 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 14c5da3afada4980813a8a449e8d2712).
+2025-05-31 10:53:28,950 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7c1b07a9872e5d560e8135a44a43f54a).
+2025-05-31 10:53:30,890 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-31 10:53:30,890 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-31 10:53:30,953 - bot - INFO - Bot logged in as FuckOFF#0230 (ID: 1378044670008889405)
+2025-05-31 10:53:30,954 - bot - INFO - Target channel found: 〔🐉〕yohara-spawn (ID: 1378037686069104682)
+2025-05-31 10:53:31,073 - bot - INFO - Startup message sent successfully
+2025-05-31 10:53:31,127 - bot - INFO - Startup message sent successfully
+2025-05-31 11:10:00,002 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:10:00 EEST)" (scheduled at 2025-05-31 14:10:00+03:00)
+2025-05-31 11:10:00,002 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-31 11:10:00,002 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:10:00 EEST)" (scheduled at 2025-05-31 14:10:00+03:00)
+2025-05-31 11:10:00,002 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 spawn notification
+2025-05-31 11:10:00,231 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-31 11:10:00,231 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-31 11:10:00,231 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:10:00 EEST)" executed successfully
+2025-05-31 11:10:00,256 - bot - INFO - Spawn message sent: Sefii din Temintia Misterioasa V5 apar in 5 min !!!
+2025-05-31 11:10:00,256 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 notification
+2025-05-31 11:10:00,256 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Spawn Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:10:00 EEST)" executed successfully
+2025-05-31 11:15:00,012 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:15:00 EEST)" (scheduled at 2025-05-31 14:15:00+03:00)
+2025-05-31 11:15:00,013 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-31 11:15:00,013 - apscheduler.executors.default - INFO - Running job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:15:00 EEST)" (scheduled at 2025-05-31 14:15:00+03:00)
+2025-05-31 11:15:00,013 - scheduler_manager - INFO - Sending Temintia Misterioasa V5 Followup spawn notification
+2025-05-31 11:15:00,220 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-31 11:15:00,221 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-31 11:15:00,221 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:15:00 EEST)" executed successfully
+2025-05-31 11:15:00,350 - bot - INFO - Spawn message sent: Sefii din Temnita Misterioasa V5 au aparut !!!
+2025-05-31 11:15:00,350 - scheduler_manager - INFO - Successfully sent Temintia Misterioasa V5 Followup notification
+2025-05-31 11:15:00,350 - apscheduler.executors.default - INFO - Job "Temintia Misterioasa V5 Followup Notification (trigger: interval[2:00:00], next run at: 2025-05-31 16:15:00 EEST)" executed successfully
